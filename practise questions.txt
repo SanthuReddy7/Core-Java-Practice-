@@ -1,0 +1,36 @@
+Please practice:
+
+•         Write a test case to find the second highest integer in a given array
+ 
+•         Write a Java code to reverse the given String
+ 
+•         Write a Java Code to find the power of 10 in a given array
+ 
+•         Write a Java Code to find the prime numbers in a given array
+ 
+•         Given an integer array containing random numbers (some of the numbers may be repeated). Write a Java code to find a number which is repeated 
+maximum number of times and  find its count.
+ 
+•         Find the non-repetitive character in the string
+ 
+•         Find all permutation of the String. Or Find and print all the words which can be formed by all the permutations possible for a given string "String".
+ 
+•         How you will find of a given string is Palindromes?
+ 
+•         You as a tourist visiting USA. You have given 10 random cities to cover by car. Write a Java code to calculate the minimum distances travel to cover all the 10 cities.
+ 
+•         Can you write a code for Fibonacci series? Fibonacci series - A series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers. The simplest is the series 1, 1, 2, 3, 5, 8, etc.
+ 
+•         Given 3 different strings: write a Java code to find which characters are non-repetitive.
+ 
+•         Given an integer array, form a integer with maximum possible value using all the integers.   
+ 
+•         How to solve “Tower of Hanoi” problem?
+ 
+/// •         How to find cycle in the linked list? Explain how tortoise and hare algorithm robert floyd's will work here?
+ 
+/// •         Given 8 oranges on the table, 7 of them have exactly the same weight and the 8th is a little bit lighter.  You are given a balance that can measure oranges against each other and you are allowed to use the balance at most twice.  How can you determine which one of the oranges is lighter than the others?
+         
+. Write a code to find second smallest number in an array.
+. Write a code to find the number of pairs that sums up the given number.
+/// . Scenario Case: Stairs climbing puzzle.
